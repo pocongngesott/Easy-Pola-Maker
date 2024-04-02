@@ -7,6 +7,6 @@ TUTORIAL
 5.Hasilnya akan di tunkukan di HASIL.txt
 
 (contoh jawaban)
-POLA UNTUK SITUS ? : RTP8000
+POLA UNTUK SITUS ? : AHAY
 PP Mau Game Apa Bossku? (Pisahkan dengan koma): GATES OF OLYMPUS,STARLIGHT PRINCESS,SWEET BONANZA XMAS
 PG Mau Game Apa Bossku? (Pisahkan dengan koma): MAHJONG WAYS,MAHJONG WAYS
