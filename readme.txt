@@ -1,10 +1,11 @@
 TUTORIAL
 
 1.PASTIKAN SUDAH ADA PYTHON DALAM SYSTEM KAMU YA GANTENG
-2.Gunakan command CD Path dimana kamu download file POLA (contoh : CD E:\!!!!\pola)
-3.Gunakan command python pola.py
-4.Jawab Pertanyaannya
-5.Hasilnya akan di tunkukan di HASIL.txt
+2.Download file zip atau 
+3.Gunakan command CD Path dimana kamu download file POLA (contoh : CD E:\!!!!\pola)
+4.Gunakan command python pola.py
+5.Jawab Pertanyaannya
+6.Hasilnya akan di tunkukan di HASIL.txt
 
 (contoh jawaban)
 POLA UNTUK SITUS ? : AHAY
