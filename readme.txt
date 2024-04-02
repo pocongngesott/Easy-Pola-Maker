@@ -1,7 +1,8 @@
 TUTORIAL
 
 1.PASTIKAN SUDAH ADA PYTHON DALAM SYSTEM KAMU YA GANTENG
-2.Download file zip atau https://github.com/pocongngesott/POLA.git
+2.Download file zip atau git clone https://github.com/pocongngesott/POLA.git
+3.Jika kamu gunakan git clone langsung lompat ke nomor 4
 3.Gunakan command CD Path dimana kamu download file POLA (contoh : CD E:\!!!!\pola)
 4.Gunakan command python pola.py
 5.Jawab Pertanyaannya
