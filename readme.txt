@@ -10,4 +10,4 @@ TUTORIAL
 (contoh jawaban)
 POLA UNTUK SITUS ? : AHAY
 PP Mau Game Apa Bossku? (Pisahkan dengan koma): GATES OF OLYMPUS,STARLIGHT PRINCESS,SWEET BONANZA XMAS
-PG Mau Game Apa Bossku? (Pisahkan dengan koma): MAHJONG WAYS,MAHJONG WAYS
+PG Mau Game Apa Bossku? (Pisahkan dengan koma): MAHJONG WAYS,MAHJONG WAYS 2
