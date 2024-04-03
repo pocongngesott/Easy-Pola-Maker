@@ -11,7 +11,7 @@ TUTORIAL
 ================= UPDATE =================
 Penambahan Provider                      |
 hab = HABANERO                           |
-spd = SPADE GAMING			                 |
+spd = SPADE GAMING			 |
 mcg = MICROGAMING                        |
 nlc = NO LIMIT CITY                      |
 ==========================================
