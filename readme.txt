@@ -17,7 +17,7 @@ nlc = NO LIMIT CITY                      |
 ==========================================
 
 (contoh jawaban)
-POLA UNTUK SITUS ? : RTP8000
+POLA UNTUK SITUS ? : SITUS GACOR
 PP Mau Game Apa Bossku? (Pisahkan dengan koma): GATES OF OLYMPUS,STARLIGHT PRINCESS,SWEET BONANZA XMAS
 PG Mau Game Apa Bossku? (Pisahkan dengan koma): MAHJONG WAYS,MAHJONG WAYS 2
 Mau Nambah Game HAB,SPADE,MCG,NLC? (hab/spd/mcg/nlc/tidak): (PILIH GAME YANG KAMU MAU) jika tidak mau tambah game langsung enter
